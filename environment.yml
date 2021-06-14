@@ -5,8 +5,8 @@ channels:
 dependencies:
   - python=3.8
   - pywin32
+  - pandas
   - pip
   - pip:
-    - pandas
     - jupyter
     - matplotlib
