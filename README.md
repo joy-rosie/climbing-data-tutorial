@@ -1,6 +1,9 @@
 # climbing-data-tutorial
 
-Static view: https://nbviewer.jupyter.org/github/joy-rosie/climbing-data-tutorial/blob/main/Tutorial.ipynb
+Static view: 
+
+- [Tutorial](https://nbviewer.jupyter.org/github/joy-rosie/climbing-data-tutorial/blob/main/Tutorial.ipynb)
+- [Exercises](https://nbviewer.jupyter.org/github/joy-rosie/climbing-data-tutorial/blob/main/Exercises.ipynb)
 
 ## Instructions
 
